@@ -1,5 +1,5 @@
-function div (var x, var y) {
+function sub ( x, y) {
 
-var res = x/y;
+var res = x-y;
 
 }

@@ -1,5 +1,5 @@
-function Multi (var x, var y) {
+function div (var x, var y) {
 
-var res = x*y;
+var res = x/y;
 
 }

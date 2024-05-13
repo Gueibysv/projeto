@@ -1,5 +1,3 @@
-var vetor = [5,6,7,8,9];
-
 function somarVetor(vetor) {
     let soma = 0;
     for (let i = 0; i < vetor.length; i++) {

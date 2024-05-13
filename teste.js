@@ -1,5 +1,3 @@
-function sub ( x, y) {
-
-var res = x-y;
-
+function sub(x, y) {
+    return x - y;
 }
